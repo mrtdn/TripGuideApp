@@ -34,6 +34,8 @@ https://user-images.githubusercontent.com/41941440/159004272-3b1458f9-3b1a-459c-
   ⏳ widgets/seach_hotel.dart  
   ⏳ widgets/search_rental.dart  
   ⏳ widgets/food_carousel.dart  
+  
+  ⏳ Firebase integration as BaaS provider.  
     
   .  
   .  
